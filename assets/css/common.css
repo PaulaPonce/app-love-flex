@@ -1,0 +1,35 @@
+/*
+ * Clases reutilizables para el proyecto
+ * (Aquí pueden ir las clases de tu grid)
+ */
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.link{
+  font-weight: 700;
+  padding: 21px;
+  display: inline-block;
+}
+a{
+  color: #373B47;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #E95853;
+}
+
+/* Contenedor Flexbox */
+.flex-container{
+	display: flex;
+}
