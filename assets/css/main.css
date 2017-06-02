@@ -81,6 +81,48 @@ body{
 	font-weight: bold;
 }
 
+/* Products */
+#products{
+	padding: 70px;
+}
+
+#work{
+	padding-bottom: 70px;
+}
+
+.box-products{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+#products #work.flex-container{
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#products #imgs.flex-container{
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+#products #work img{
+	width: 100%;
+}
+
+#products #imgs img{
+	width: 350px;
+	height: auto;
+	cursor: pointer;
+	padding: 0;
+}
+
+#products #imgs img:hover{
+	opacity: 0.8;
+}
+
 /* footer */
 footer{
 	text-align: center;
