@@ -1,9 +1,9 @@
-body {
-  margin: 0 auto;
-  font-size: 16px;
-  line-height: 1.71429;
-  background-color: #fff;
-  font-family: 'Open Sans', sans-serif;
+body{
+	margin: 0 auto;
+	font-size: 16px;
+	line-height: 1.71429;
+	background-color: #fff;
+	font-family: 'Open Sans', sans-serif;
 }
 
 /* Menu */
@@ -52,15 +52,15 @@ body {
 }
 
 .btn-home{
-  background: #2Ecc71;
-  color: #fff;
-  padding: 11px 20px;
-  border-radius: 1px;
-  font-weight: 500;
-  text-transform: uppercase;
-  margin-top: 63px;
-  display: inline-block;
-  font-size: 14px;
+	background: #2Ecc71;
+	color: #fff;
+	padding: 11px 20px;
+	border-radius: 10px;
+	font-weight: 500;
+	text-transform: uppercase;
+	margin-top: 63px;
+	display: inline-block;
+	font-size: 14px;
 }
 
 /* Services */
@@ -83,9 +83,9 @@ body {
 
 /* footer */
 footer{
-  text-align: center;
-  height: 70px;
-  background-color: #373b47;
-  color: white;
-  padding-top: 7px;
+	text-align: center;
+	height: 70px;
+	background-color: #373b47;
+	color: white;
+	padding-top: 7px;
 }
